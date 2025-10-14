@@ -12,7 +12,13 @@ ensure the following is installed in your machine:
 
 ## Getting Started
 
-1. Setup environment
+1. install go dependencies
+
+```sh
+go mod tidy
+``
+
+2. Setup environment
 
 ```sh
 cp .env.example .env
