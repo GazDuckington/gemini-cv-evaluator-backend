@@ -86,13 +86,13 @@ it will trigger a background response that will return status, on status done th
 4. to check evaluation status
 
 ```sh
-POST {{host}}/cv/status/<id>
+GET {{host}}/cv/status/<id>
 ```
 
 5. to see evaluation response
 
 ```sh
-POST {{host}}/cv/result/<id>
+GET {{host}}/cv/result/<id>
 ```
 
 ## RestAPI documentation
