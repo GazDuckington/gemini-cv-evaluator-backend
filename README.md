@@ -49,6 +49,8 @@ this will also setup 2 users account in addition to generating the required tabl
 }
 ```
 
+only difference is `admin` can get request to `{{host}}/users`
+
 ## Usage
 
 to use the backend, note that default host is `http://localhost:8008`
