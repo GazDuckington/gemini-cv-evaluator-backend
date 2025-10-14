@@ -16,7 +16,7 @@ ensure the following is installed in your machine:
 
 ```sh
 go mod tidy
-``
+```
 
 2. Setup environment
 
